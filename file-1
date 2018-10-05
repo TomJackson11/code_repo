@@ -1,9 +1,12 @@
 # This is some example code 
 
 import pandas 
+<<<<<<< HEAD
 
 def read_string():
 	pass
 	
 	
 #some more changes that i made
+=======
+>>>>>>> parent of bad9ed4... added def read string()
