@@ -3,8 +3,12 @@
 import pandas 
 
 
+
+def adding new pretendend function lalalala
+
 def read_string():
 	pass
 	
 	
-
+def fix function():
+   some code that was fixed 
